@@ -32,11 +32,13 @@ Train Accuracy: ~92%
 Validation Accuracy: ~88%
 
 Test Accuracy: ~87%
-## 📈 Biểu đồ Accuracy & Loss
-<p align="center"> <img src="results/accuracy_loss.png" width="650" alt="Accuracy and Loss Graph"/> </p>
-
-Hình 1: Biểu đồ thể hiện quá trình thay đổi Accuracy và Loss qua các epoch.
+## 📈 Biểu đồ Accuracy
+<p align="center"> <img src="Image/accuracy.png" width="650" alt="Accuracy Graph"/> </p>
+Hình 1: Biểu đồ thể hiện quá trình thay đổi Accuracy các epoch.
+## 📈 Biểu đồ Loss
+<p align="center"> <img src="Image/loss.png" width="650" alt="Loss Graph"/> </p>
+Hình 2: Biểu đồ thể hiện quá trình thay đổi Loss qua các epoch.
 ## 🧩 Confusion Matrix
 <p align="center"> <img src="results/confusion_matrix.png" width="650" alt="Confusion Matrix"/> </p>
 
-Hình 2: Ma trận nhầm lẫn thể hiện mức độ chính xác của mô hình trên từng lớp CIFAR-10.
+Hình 3: Ma trận nhầm lẫn thể hiện mức độ chính xác của mô hình trên từng lớp CIFAR-10.
