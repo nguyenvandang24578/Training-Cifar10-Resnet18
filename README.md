@@ -30,6 +30,6 @@ Hình 1: Biểu đồ thể hiện quá trình thay đổi Accuracy các epoch.
 Hình 2: Biểu đồ thể hiện quá trình thay đổi Loss qua các epoch.
 
 ## 🧩 Confusion Matrix
-<p align="center"> <img src="results/confusion_matrix.png" width="650" alt="Confusion Matrix"/> </p>
+<p align="center"> <img src="Image/matrix.png" width="650" alt="Confusion Matrix"/> </p>
 
 Hình 3: Ma trận nhầm lẫn thể hiện mức độ chính xác của mô hình trên từng lớp CIFAR-10.
