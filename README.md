@@ -13,7 +13,7 @@ Mô hình được huấn luyện bằng **PyTorch** với các bước tiền x
 ---
 
 ## ⚙️ 2. Cấu trúc thư mục
-📁 cifar10-resnet18/
+"📁 cifar10-resnet18/
 │
 ├── train.py # Script huấn luyện mô hình
 ├── test.py # Script đánh giá mô hình
@@ -23,7 +23,8 @@ Mô hình được huấn luyện bằng **PyTorch** với các bước tiền x
 │ ├── accuracy_loss.png
 │ ├── best_model.pth
 │ └── logs.csv
-└── README.md
+└── README.md"
+
 ## 📊 4. Kết quả
 Độ chính xác đạt được
 
@@ -34,10 +35,13 @@ Validation Accuracy: ~88%
 Test Accuracy: ~87%
 ## 📈 Biểu đồ Accuracy
 <p align="center"> <img src="Image/accuracy.png" width="650" alt="Accuracy Graph"/> </p>
+
 Hình 1: Biểu đồ thể hiện quá trình thay đổi Accuracy các epoch.
+
 ## 📈 Biểu đồ Loss
 <p align="center"> <img src="Image/loss.png" width="650" alt="Loss Graph"/> </p>
 Hình 2: Biểu đồ thể hiện quá trình thay đổi Loss qua các epoch.
+
 ## 🧩 Confusion Matrix
 <p align="center"> <img src="results/confusion_matrix.png" width="650" alt="Confusion Matrix"/> </p>
 
